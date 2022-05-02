@@ -4,6 +4,11 @@
 
    ====================================== */
 
+
+/* =========================
+    FACEBOOK STYLE BUTTONS
+   ========================= */
+
 .facebook-style-btn {
     border-radius: 2px;
     font-size: 0.9rem;
@@ -403,4 +408,4 @@
 
 .toggle-2__input:checked+.toggle-2__button::before {
     background-color: white;
-}
+} 
