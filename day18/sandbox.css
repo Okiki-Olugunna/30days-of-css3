@@ -17,7 +17,7 @@
 .tooltip:hover::before,
 .tooltip:hover::after {
     display: inline-block;
-  /* fading the tooltips in */
+    /* fading in the tooltip */
     -webkit-animation: fadein 1s;
     animation: fadein 1s;
 }
