@@ -45,6 +45,5 @@
 
 .triangle:hover .bottom {
     top: 220px;
-    /* 10 extra pixels to create a gap */
     background: blue
 }
